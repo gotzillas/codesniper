@@ -1,0 +1,33 @@
+{
+  "name": "codesniper",
+  "version": "1.0.2",
+  "description": "codesniper",
+  "type": "module",
+  "main": "codesniper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gotzillas/codesniper"
+  },
+  "website": "https://github.com/gotzillas/codesniper.git",
+  "keywords": [
+    "codesniper"
+  ],
+  "author": "gotzillas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gotzillas/codesniper/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/gotzillas/codesniper#readme",
+  "dependencies": {
+		"devprophet": "1.0.2",
+		"programcraftkit": "1.0.2",
+		"codecraftmaster": "1.0.2"
+  }
+}
